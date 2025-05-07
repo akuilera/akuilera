@@ -21,7 +21,7 @@
   - 🎯 Looking for new career growth opportunities
 - 🌺 Wanting to collaborate on cool Machine Learning and Data Analysis projects, specially related to NLP, Mechanical Engineering and Music 💞️
 - Contact 📫
-  - 🔗 LinkedIn: https://www.linkedin.com/in/pedro-ignacio-aguilera-lucinche
+  - 🔗 LinkedIn: https://www.linkedin.com/in/pedro-ignacio-aguilera
   - 🐘 Mastodon: @akuilera@mastodon.social
   - 📸 Pixelfed: @akuilera@pixelfed.social
 
