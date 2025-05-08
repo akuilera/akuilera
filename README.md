@@ -23,7 +23,7 @@
 - 🌺 Wanting to collaborate on cool Machine Learning and Data Analysis projects, specially related to NLP, Mechanical Engineering and Music 💞️
 - Contact 📫
   - 🔗 LinkedIn: www.linkedin.com/in/pedro-ignacio-aguilera
-  - 🤓 Coursera: coursera.org/learner/akuilera
+  - 🤓 Coursera: www.coursera.org/learner/akuilera
   - 🐘 Mastodon: @akuilera@mastodon.social
   - 📸 Pixelfed: @akuilera@pixelfed.social
 
