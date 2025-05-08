@@ -8,9 +8,10 @@
   - 🧮 Machine Learning
   - 📊 Data Analysis
   - 💬 Natural Language Processing
+  - 🦾 Mechanical Engineering
+  - 🔭 Physics
   - 🎶 Music
   - 🔊 Sound
-  - 🦾 Mechanical Engineering
   - 📖 Literature
   - 🦉 Philosophy
   - 🤸🏽‍♂️ Calisthenics
