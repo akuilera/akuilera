@@ -22,8 +22,7 @@
   - 🎯 Looking for new career growth opportunities
 - 🌺 Wanting to collaborate on cool Machine Learning and Data Analysis projects, specially related to NLP, Mechanical Engineering and Music 💞️
 - Contact 📫
-  - 🔗 LinkedIn: www.linkedin.com/in/pedro-ignacio-aguilera
-  - 🤓 Coursera: www.coursera.org/learner/akuilera
+  - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ignacio-aguilera)
+  - 🤓 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/akuilera)
   - 🐘 Mastodon: @akuilera@mastodon.social
   - 📸 Pixelfed: @akuilera@pixelfed.social
-
