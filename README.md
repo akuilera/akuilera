@@ -24,7 +24,6 @@
   - 🤸🏽‍♂️ Calisthenics
   - 🚲 Bikes
 - Currently 🌱
-  - 📈 Learning Data Analysis with WBS Coding School
   - 💭 Working on a personal project related to NPL
   - 🎯 Looking for new career growth opportunities
 - 🌺 Wanting to collaborate on cool Machine Learning and Data Analysis projects, specially related to NLP, Mechanical Engineering and Music 💞️
